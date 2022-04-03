@@ -1,0 +1,7 @@
+{
+	"prefix": "r.", //スラッシュコマンドに移行したため現在は使用不可
+	"token": "DISCORD_TOKEN",
+	"vtapi": "VoiceTextAPI",
+	"botowner": "752814117806407710",
+	"textlimit": 50  //読み上げ文字数制限
+}
